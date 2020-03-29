@@ -11,13 +11,17 @@
 I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work. I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with all colleagues. I am flexible, reliable and possess excellent time keeping skills.
 
 ### Skills:
-&#9733; &#9733; &#9734; HTML
-&#9733; &#9733; &#9734; CSS
-&#9733; &#9734; &#9734; Javascript
-&#9733; &#9734; &#9734; Github
+&#9733; &#9733; &#9734;   HTML 
+
+&#9733; &#9733; &#9734;   CSS
+
+&#9733; &#9734; &#9734;   Javascript
+
+&#9733; &#9734; &#9734;   Github
 
 ### Experience:
   * **Owner - Kremovelove ( From 2017)**
+  
     **Owner - Cornerburger (from 2013)**
   
 ### Education:
@@ -29,8 +33,8 @@ I am a punctual and motivated individual who is able to work in a busy environme
     * RS School The Rolling Scopes Poland
     
 ### Languages:
-* Polish - native
-* English - highly proficient
+  * Polish - native
+  * English - highly proficient
     
 
   
