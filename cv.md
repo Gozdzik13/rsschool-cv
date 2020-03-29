@@ -22,7 +22,7 @@ I am a punctual and motivated individual who is able to work in a busy environme
 ### Experience:
   * **Owner - Kremovelove ( From 2017)**
   
-    **Owner - Cornerburger (from 2013)**
+  * **Owner - Cornerburger (from 2013)**
   
 ### Education:
   * Techtalks, online tutorials and webinars:
